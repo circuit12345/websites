@@ -1,0 +1,125 @@
+[2024-04-11 03:55:59 : INFO] - Re_Smush_It_Task with attachment ID : 7958, autocreated on : April 11, 2024 03:55:59 
+[2024-04-11 03:56:21 : INFO] - Re_Smush_It_Task with attachment ID : 7959, autocreated on : April 11, 2024 03:56:21 
+[2024-04-11 03:56:27 : INFO] - Re_Smush_It_Task with attachment ID : 7960, autocreated on : April 11, 2024 03:56:27 
+[2024-04-11 03:56:33 : INFO] - Re_Smush_It_Task with attachment ID : 7961, autocreated on : April 11, 2024 03:56:33 
+[2024-04-11 03:56:40 : INFO] - Re_Smush_It_Task with attachment ID : 7962, autocreated on : April 11, 2024 03:56:40 
+[2024-04-11 04:01:01 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2024-04-11 04:01:01 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-04-11 04:01:01 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-04-11 04:01:01 : INFO] - Processing task with ID : 34, and type 'smush' 
+[2024-04-11 04:01:01 : INFO] - Re_Smush_It_Task with attachment ID : 7958, autocreated on : April 11, 2024 03:55:59 
+[2024-04-11 04:01:01 : INFO] - File: IMG-20240411-WA0002.jpg, Compression quality: 60 
+[2024-04-11 04:01:03 : INFO] - Backing up the original image - 2024/04/IMG-20240411-WA0002-updraft-pre-smush-original.jpg 
+[2024-04-11 04:01:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-04-11 04:01:12 : INFO] - Successfully optimized the image - /home/u876035774/domains/circuitmakers.in/public_html/wp-content/uploads/2024/04/IMG-20240411-WA0002.jpg.The file was compressed from 219.23 KB to 165.70 KB, saving 24.42 percent, using WP-Optimize 
+[2024-04-11 04:01:12 : INFO] - Completed processing task with ID : 34, and type 'smush' 
+[2024-04-11 04:01:12 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2024-04-11 04:01:12 : INFO] - Re_Smush_It_Task with attachment ID : 7959, autocreated on : April 11, 2024 03:56:21 
+[2024-04-11 04:01:12 : INFO] - File: IMG-20240318-WA0007.jpg, Compression quality: 60 
+[2024-04-11 04:01:13 : INFO] - Backing up the original image - 2024/04/IMG-20240318-WA0007-updraft-pre-smush-original.jpg 
+[2024-04-11 04:01:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-04-11 04:01:19 : INFO] - Successfully optimized the image - /home/u876035774/domains/circuitmakers.in/public_html/wp-content/uploads/2024/04/IMG-20240318-WA0007.jpg.The file was compressed from 148.08 KB to 109.93 KB, saving 25.76 percent, using WP-Optimize 
+[2024-04-11 04:01:19 : INFO] - Completed processing task with ID : 35, and type 'smush' 
+[2024-04-11 04:01:19 : INFO] - Processing task with ID : 36, and type 'smush' 
+[2024-04-11 04:01:19 : INFO] - Re_Smush_It_Task with attachment ID : 7960, autocreated on : April 11, 2024 03:56:27 
+[2024-04-11 04:01:19 : INFO] - File: IMG-20240318-WA0009.jpg, Compression quality: 60 
+[2024-04-11 04:01:20 : INFO] - Backing up the original image - 2024/04/IMG-20240318-WA0009-updraft-pre-smush-original.jpg 
+[2024-04-11 04:01:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-04-11 04:01:27 : INFO] - Successfully optimized the image - /home/u876035774/domains/circuitmakers.in/public_html/wp-content/uploads/2024/04/IMG-20240318-WA0009.jpg.The file was compressed from 242.90 KB to 184.10 KB, saving 24.21 percent, using WP-Optimize 
+[2024-04-11 04:01:27 : INFO] - Completed processing task with ID : 36, and type 'smush' 
+[2024-04-11 04:01:27 : INFO] - Processing task with ID : 37, and type 'smush' 
+[2024-04-11 04:01:27 : INFO] - Re_Smush_It_Task with attachment ID : 7961, autocreated on : April 11, 2024 03:56:33 
+[2024-04-11 04:01:27 : INFO] - File: IMG-20240318-WA0010.jpg, Compression quality: 60 
+[2024-04-11 04:01:28 : INFO] - Backing up the original image - 2024/04/IMG-20240318-WA0010-updraft-pre-smush-original.jpg 
+[2024-04-11 04:01:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-04-11 04:01:34 : INFO] - Successfully optimized the image - /home/u876035774/domains/circuitmakers.in/public_html/wp-content/uploads/2024/04/IMG-20240318-WA0010.jpg.The file was compressed from 152.63 KB to 112.41 KB, saving 26.35 percent, using WP-Optimize 
+[2024-04-11 04:01:34 : INFO] - Completed processing task with ID : 37, and type 'smush' 
+[2024-04-11 04:01:34 : INFO] - Processing task with ID : 38, and type 'smush' 
+[2024-04-11 04:01:34 : INFO] - Re_Smush_It_Task with attachment ID : 7962, autocreated on : April 11, 2024 03:56:40 
+[2024-04-11 04:01:34 : INFO] - File: IMG-20240318-WA0011.jpg, Compression quality: 60 
+[2024-04-11 04:01:35 : INFO] - Backing up the original image - 2024/04/IMG-20240318-WA0011-updraft-pre-smush-original.jpg 
+[2024-04-11 04:01:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-04-11 04:01:41 : INFO] - Successfully optimized the image - /home/u876035774/domains/circuitmakers.in/public_html/wp-content/uploads/2024/04/IMG-20240318-WA0011.jpg.The file was compressed from 148.43 KB to 108.72 KB, saving 26.76 percent, using WP-Optimize 
+[2024-04-11 04:01:41 : INFO] - Completed processing task with ID : 38, and type 'smush' 
+[2024-04-11 04:01:41 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-04-11 04:01:41 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2024-04-11 04:01:41 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-04-11 04:01:41 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2024-04-17 01:24:29 : INFO] - Re_Smush_It_Task with attachment ID : 7971, autocreated on : April 17, 2024 01:24:29 
+[2024-04-17 01:25:44 : INFO] - Re_Smush_It_Task with attachment ID : 7972, autocreated on : April 17, 2024 01:25:44 
+[2024-04-17 01:29:34 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2024-04-17 01:29:34 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-04-17 01:29:34 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-04-17 01:29:34 : INFO] - Processing task with ID : 39, and type 'smush' 
+[2024-04-17 01:29:34 : INFO] - Re_Smush_It_Task with attachment ID : 7971, autocreated on : April 17, 2024 01:24:29 
+[2024-04-17 01:29:34 : INFO] - File: WhatsApp-Image-2024-04-13-at-21.00.18_fa3e0889.jpg, Compression quality: 60 
+[2024-04-17 01:29:35 : INFO] - Backing up the original image - 2024/04/WhatsApp-Image-2024-04-13-at-21.00.18_fa3e0889-updraft-pre-smush-original.jpg 
+[2024-04-17 01:29:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-04-17 01:29:42 : INFO] - Successfully optimized the image - /home/u876035774/domains/circuitmakers.in/public_html/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-13-at-21.00.18_fa3e0889.jpg.The file was compressed from 155.66 KB to 114.95 KB, saving 26.15 percent, using WP-Optimize 
+[2024-04-17 01:29:42 : INFO] - Completed processing task with ID : 39, and type 'smush' 
+[2024-04-17 01:29:42 : INFO] - Processing task with ID : 40, and type 'smush' 
+[2024-04-17 01:29:42 : INFO] - Re_Smush_It_Task with attachment ID : 7972, autocreated on : April 17, 2024 01:25:44 
+[2024-04-17 01:29:42 : INFO] - File: WhatsApp-Image-2024-04-13-at-21.00.20_25e9225f.jpg, Compression quality: 60 
+[2024-04-17 01:29:43 : INFO] - Backing up the original image - 2024/04/WhatsApp-Image-2024-04-13-at-21.00.20_25e9225f-updraft-pre-smush-original.jpg 
+[2024-04-17 01:29:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-04-17 01:29:49 : INFO] - Successfully optimized the image - /home/u876035774/domains/circuitmakers.in/public_html/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-13-at-21.00.20_25e9225f.jpg.The file was compressed from 222.71 KB to 166.81 KB, saving 25.1 percent, using WP-Optimize 
+[2024-04-17 01:29:49 : INFO] - Completed processing task with ID : 40, and type 'smush' 
+[2024-04-17 01:29:49 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-04-17 01:29:49 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2024-04-17 01:29:49 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-04-17 01:29:49 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2024-08-30 03:16:39 : INFO] - Re_Smush_It_Task with attachment ID : 7998, autocreated on : August 30, 2024 03:16:39 
+[2024-08-30 03:35:19 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-08-30 03:35:19 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-08-30 03:35:19 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-08-30 03:35:19 : INFO] - Processing task with ID : 41, and type 'smush' 
+[2024-08-30 03:35:19 : INFO] - Re_Smush_It_Task with attachment ID : 7998, autocreated on : August 30, 2024 03:16:39 
+[2024-08-30 03:35:19 : INFO] - File: mt-sample-background.jpg, Compression quality: 60 
+[2024-08-30 03:35:21 : INFO] - Backing up the original image - 2024/08/mt-sample-background-updraft-pre-smush-original.jpg 
+[2024-08-30 03:35:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-30 03:35:25 : INFO] - Successfully optimized the image - /home/u876035774/domains/circuitmakers.in/public_html/wp-content/uploads/2024/08/mt-sample-background.jpg.The file was compressed from 212.49 KB to 86.93 KB, saving 59.09 percent, using WP-Optimize 
+[2024-08-30 03:35:25 : INFO] - Completed processing task with ID : 41, and type 'smush' 
+[2024-08-30 03:35:25 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-08-30 03:35:25 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-08-30 03:35:25 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-08-30 03:35:25 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-02-12 09:13:42 : INFO] - Re_Smush_It_Task with attachment ID : 8008, autocreated on : February 12, 2025 09:13:42 
+[2025-02-12 09:32:01 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-02-12 09:32:01 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-02-12 09:32:01 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-02-12 09:32:01 : INFO] - Processing task with ID : 42, and type 'smush' 
+[2025-02-12 09:32:01 : INFO] - Re_Smush_It_Task with attachment ID : 8008, autocreated on : February 12, 2025 09:13:42 
+[2025-02-12 09:32:01 : INFO] - File: 517f995bf8feb7af0e58cc0b96a66b5b.jpg, Compression quality: 60 
+[2025-02-12 09:32:02 : INFO] - Backing up the original image - 2025/02/517f995bf8feb7af0e58cc0b96a66b5b-updraft-pre-smush-original.jpg 
+[2025-02-12 09:32:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-02-12 09:32:05 : INFO] - Successfully optimized the image - /home/u876035774/domains/circuitmakers.in/public_html/wp-content/uploads/2025/02/517f995bf8feb7af0e58cc0b96a66b5b.jpg.The file was compressed from 54.64 KB to 33.47 KB, saving 38.74 percent, using WP-Optimize 
+[2025-02-12 09:32:05 : INFO] - Completed processing task with ID : 42, and type 'smush' 
+[2025-02-12 09:32:05 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-02-12 09:32:05 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-02-12 09:32:05 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-02-12 09:32:05 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-02-12 13:28:02 : INFO] - Re_Smush_It_Task with attachment ID : 8009, autocreated on : February 12, 2025 01:28:02 
+[2025-03-04 13:03:01 : INFO] - Re_Smush_It_Task with attachment ID : 8010, autocreated on : March 04, 2025 01:03:01 
+[2025-03-04 13:33:44 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2025-03-04 13:33:44 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-03-04 13:33:44 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-03-04 13:33:44 : INFO] - Processing task with ID : 43, and type 'smush' 
+[2025-03-04 13:33:44 : INFO] - Re_Smush_It_Task with attachment ID : 8009, autocreated on : February 12, 2025 01:28:02 
+[2025-03-04 13:33:44 : INFO] - File: GFG6Od0aIAASHVH.jpg, Compression quality: 60 
+[2025-03-04 13:33:46 : INFO] - Backing up the original image - 2025/02/GFG6Od0aIAASHVH-updraft-pre-smush-original.jpg 
+[2025-03-04 13:33:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-03-04 13:33:51 : INFO] - Successfully optimized the image - /home/u876035774/domains/circuitmakers.in/public_html/wp-content/uploads/2025/02/GFG6Od0aIAASHVH.jpg.The file was compressed from 306.19 KB to 125.54 KB, saving 59 percent, using WP-Optimize 
+[2025-03-04 13:33:51 : INFO] - Completed processing task with ID : 43, and type 'smush' 
+[2025-03-04 13:33:51 : INFO] - Processing task with ID : 44, and type 'smush' 
+[2025-03-04 13:33:51 : INFO] - Re_Smush_It_Task with attachment ID : 8010, autocreated on : March 04, 2025 01:03:01 
+[2025-03-04 13:33:51 : INFO] - File: عزل-فوم-500-x-500-px.jpg, Compression quality: 60 
+[2025-03-04 13:33:52 : INFO] - Backing up the original image - 2025/03/عزل-فوم-500-x-500-px-updraft-pre-smush-original.jpg 
+[2025-03-04 13:33:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2025-03-04 13:33:54 : INFO] - Successfully optimized the image - /home/u876035774/domains/circuitmakers.in/public_html/wp-content/uploads/2025/03/عزل-فوم-500-x-500-px.jpg.The file was compressed from 30.15 KB to 15.02 KB, saving 50.17 percent, using WP-Optimize 
+[2025-03-04 13:33:54 : INFO] - Completed processing task with ID : 44, and type 'smush' 
+[2025-03-04 13:33:54 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-03-04 13:33:54 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2025-03-04 13:33:54 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-03-04 13:33:54 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2025-03-04 17:47:59 : INFO] - Re_Smush_It_Task with attachment ID : 8011, autocreated on : March 04, 2025 05:47:59 
+[2025-06-30 15:25:39 : INFO] - Re_Smush_It_Task with attachment ID : 8012, autocreated on : June 30, 2025 03:25:39 
